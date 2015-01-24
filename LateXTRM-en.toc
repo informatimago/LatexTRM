@@ -1,0 +1,11 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}The Four Economic Freedoms}{3}
+\contentsline {section}{\numberline {2}Principle of Economic Relativity}{3}
+\contentsline {section}{\numberline {3}Space-Time}{3}
+\contentsline {section}{\numberline {4}Free Currency}{4}
+\contentsline {section}{\numberline {5}Quantitative}{7}
+\contentsline {section}{\numberline {6}Relative}{8}
+\contentsline {section}{\numberline {7}Initial Asymetries}{10}
+\contentsline {section}{\numberline {8}The four referentials}{11}
+\contentsline {section}{\numberline {9}Variation for a pseudo-autonomous individual}{12}
+\contentsline {section}{\numberline {10}Variations of N and calculation of UD}{12}

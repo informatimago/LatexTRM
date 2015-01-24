@@ -1,0 +1,11 @@
+\select@language {french}
+\contentsline {section}{\numberline {1}Les 4 libert\IeC {\'e}s \IeC {\'e}conomiques}{3}
+\contentsline {section}{\numberline {2}Principe de relativit\IeC {\'e} \IeC {\'e}conomique}{3}
+\contentsline {section}{\numberline {3}Espace-Temps}{3}
+\contentsline {section}{\numberline {4}Monnaie Libre}{4}
+\contentsline {section}{\numberline {5}Quantitatif}{7}
+\contentsline {section}{\numberline {6}Relatif}{8}
+\contentsline {section}{\numberline {7}Asym\IeC {\'e}tries initiales}{10}
+\contentsline {section}{\numberline {8}Les 4 r\IeC {\'e}f\IeC {\'e}rentiels}{11}
+\contentsline {section}{\numberline {9}Variations pour un individu pseudo-autonome}{12}
+\contentsline {section}{\numberline {10}Variations de N et calcul du DU}{12}
